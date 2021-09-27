@@ -74,3 +74,5 @@ submitBtn.addEventListener('click', (event) => {
   Observações: ${textArea.value} 
   `;
 });
+
+// finalizado ate requisito 21.
